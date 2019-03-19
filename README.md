@@ -1,4 +1,4 @@
-# hyperledger
+# Hyperledger Fabric - Extend an existing network
 This project aims to explain and do the step-by-step set up to show how to extend an existing Hyperledger Fabric network.
 - Adding a new Organization to existing Network
 - Adding a new peer to an existing organization
